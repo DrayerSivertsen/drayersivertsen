@@ -1,3 +1,7 @@
+<img src="images/github_name.gif></img>
+
+
+
 ### Hi there 👋
 
 <!--
