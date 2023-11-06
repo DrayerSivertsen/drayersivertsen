@@ -11,7 +11,7 @@
 <p align="center">
   <div style="display: flex; justify-content: center;">
     <div style="flex: 1; text-align: center;">
-      <h3>I currently have experience in:</h3>
+      <h3>My Expertise</h3>
       <p>Languages:</p>
       <img src="https://img.shields.io/badge/C%2FC%2B%2B-white?style=for-the-badge&logo=C%2B%2B&logoColor=%23FFFFFF&color=%23044F88">
       <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%23FFFFFF&color=4B8BBE">
