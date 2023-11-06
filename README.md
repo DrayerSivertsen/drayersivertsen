@@ -9,26 +9,32 @@
 <p align="center"><a href="https://www.linkedin.com/in/drayersivertsen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <hr>
 <p align="center">
-<h3>I currently have experience in:</h3>
-<p>Languages:</p>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-white?style=for-the-badge&logo=C%2B%2B&logoColor=%23FFFFFF&color=%23044F88">
-<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%23FFFFFF&color=4B8BBE">
-<img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=C-Sharp&logoColor=%23FFFFFF&color=AC1B2F">
-
-
-<p>Technologies:</p>
-<img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=GitHub&logoColor=%23FFFFFF&color=black">
-<img src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logoColor=%23FFFFFF&color=FF9900">
-<img src="https://img.shields.io/badge/GTEST-white?style=for-the-badge&logo=Google&logoColor=%23FFFFFF&color=F72A25">
-
-
-<p>Certifications: </p>
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-white?style=for-the-badge&logo=Amazon&logoColor=%23FFFFFF&color=966FD6">
-<img src="https://img.shields.io/badge/AWS%20Certified%20Developer%20%E2%80%93%20Associates-white?style=for-the-badge&logo=Amazon&logoColor=%23FFFFFF&color=1352AB">
-<img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-white?style=for-the-badge&logo=Microsoft&logoColor=%23FFFFFF&color=001440">
-
-
+  <div style="display: flex; justify-content: center;">
+    <div style="flex: 1; text-align: center;">
+      <h3>I currently have experience in:</h3>
+      <p>Languages:</p>
+      <img src="https://img.shields.io/badge/C%2FC%2B%2B-white?style=for-the-badge&logo=C%2B%2B&logoColor=%23FFFFFF&color=%23044F88">
+      <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%23FFFFFF&color=4B8BBE">
+      <img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=C-Sharp&logoColor=%23FFFFFF&color=AC1B2F">
+    </div>
+    <div style="flex: 1; text-align: center;">
+      <p>Technologies:</p>
+      <img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=GitHub&logoColor=%23FFFFFF&color=black">
+      <img src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=Amazon&logoColor=%23FFFFFF&color=FF9900">
+      <img src="https://img.shields.io/badge/Azure-white?style=for-the-badge&logo=Microsoft&logoColor=%23FFFFFF&color=001440">
+      <img src="https://img.shields.io/badge/GOOGLE TEST-white?style=for-the-badge&logo=Google&logoColor=%23FFFFFF&color=F72A25">
+      <img src="https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=Linux&logoColor=%23FFFFFF&color=E6B706">
+      <img src="https://img.shields.io/badge/Operating%20Systems-white?style=for-the-badge&logoColor=%23FFFFFF&color=00BD9F">
+    </div>
+    <div style="flex: 1; text-align: center;">
+      <p>Certifications:</p>
+      <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-white?style=for-the-badge&logo=Amazon&logoColor=%23FFFFFF&color=966FD6">
+      <img src="https://img.shields.io/badge/AWS%20Certified%20Developer%20%E2%80%93%20Associates-white?style=for-the-badge&logo=Amazon&logoColor=%23FFFFFF&color=1352AB">
+      <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-white?style=for-the-badge&logo=Microsoft&logoColor=%23FFFFFF&color=001440">
+    </div>
+  </div>
 </p>
+
 <hr>
 
 <p align="center">
