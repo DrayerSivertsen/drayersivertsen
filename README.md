@@ -5,13 +5,14 @@
 <h2 align="center">Hi there 👋 My name is Drayer Sivertsen 😊 </h2>
 
 <p align="center">Currently a Software Engineer at HP inc.</p>
+<p align-"center">Welcome to my tech journey in the ever-evolving world of technology. From diving deep into low-level OS development to crafting Python scripts, I've had quite the spectrum of experience. But that's not all—I'm constantly exploring new languages and technologies to keep the excitement alive. I'm also passionate about problem-solving and dedicated to refining my algorithm and data structure skills. It's not just about finding solutions; it's about mastering the art of efficient and elegant coding. LeetCode challenges are my playground, where I continuously enhance my problem-solving abilities, striving for technical excellence. Whether it's tech, coding, or any topic that piques your interest, I'm here to chat. Don't hesitate to connect with me through Linkedin or right here on GitHub. Let's explore, learn, and grow together!</p>
 
 <p align="center"><a href="https://www.linkedin.com/in/drayersivertsen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <hr>
 <p align="center">
   <div style="display: flex; justify-content: center;">
     <div style="flex: 1; text-align: center;">
-      <h3>My Expertise</h3>
+      <h3>Experience</h3>
       <p>Languages:</p>
       <img src="https://img.shields.io/badge/C%2FC%2B%2B-white?style=for-the-badge&logo=C%2B%2B&logoColor=%23FFFFFF&color=%23044F88">
       <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%23FFFFFF&color=4B8BBE">
