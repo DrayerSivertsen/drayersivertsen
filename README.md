@@ -2,7 +2,7 @@
   <img src="https://github.com/DrayerSivertsen/drayersivertsen/blob/Projects/images/githubspedup.gif" alt="Your Image" style="max-width:100%; height:auto;">
 </p>
 
-<h2 align="center">Hi there 👋 My name is Drayer Sivertsen 😊 </h2>
+<h2 align="center">Hello there! 👋 My name is Drayer Sivertsen 😊 </h2>
 
 <p align="center">Currently a Software Engineer at HP inc.</p>
 <p align="center">Welcome to my tech journey in the ever-evolving world of technology. From diving deep into low-level OS development to crafting Python scripts, I've had quite the spectrum of experience. But that's not all—I'm constantly exploring new languages and technologies to keep the excitement alive. I'm also passionate about problem-solving and dedicated to refining my algorithm and data structure skills. It's not just about finding solutions; it's about mastering the art of efficient and elegant coding. LeetCode challenges are my playground, where I continuously enhance my problem-solving abilities, striving for technical excellence. Whether it's tech, coding, or any topic that piques your interest, I'm here to chat. Don't hesitate to connect with me through Linkedin or right here on GitHub. Let's explore, learn, and grow together!</p>
