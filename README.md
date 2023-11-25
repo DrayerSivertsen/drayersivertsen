@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DrayerSivertsen/drayersivertsen/blob/Projects/images/githubspedup.gif" alt="Your Image" style="max-width:100%; height:auto;">
+  <img src="https://github.com/DrayerSivertsen/drayersivertsen/blob/Projects/images/banner.gif" alt="Your Image" style="max-width:100%; height:auto;" display: block; margin: 0 auto;>
 </p>
 
 <h2 align="center">Hello there! 👋 My name is Drayer Sivertsen 😊 </h2>
