@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DrayerSivertsen/drayersivertsen/blob/Projects/images/githubspedup.gif" alt="Your Image" style="max-width:100%; height:auto;">
+  <img src="https://github.com/DrayerSivertsen/drayersivertsen/blob/Projects/images/banner.gif" style="width:700px; width-max:100%; height:auto; display: block; margin: 0 auto;">
 </p>
 
 <h2 align="center">Hello there! 👋 My name is Drayer Sivertsen 😊 </h2>
@@ -47,8 +47,8 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drayersivertsen&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" width="400" decoding="async" loading="lazy">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=drayersivertsen&include_all_commits=true&count_private=true&theme=dark&hide_border=true" width="425" decoding="async" loading="lazy">
+  <img src="https://github-readme-stats.vercel.app/api?username=drayersivertsen&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=drayersivertsen&include_all_commits=true&count_private=true&theme=dark&hide_border=true" width="425">
 </p>
 
 
