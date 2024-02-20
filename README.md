@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DrayerSivertsen/drayersivertsen/blob/Projects/images/new_banner.gif" style="width:1000px; width-max:200%; height:auto; display: block; margin: 0 auto;">
+<!--   <img src="https://github.com/DrayerSivertsen/drayersivertsen/blob/Projects/images/new_banner.gif" style="width:1000px; width-max:200%; height:auto; display: block; margin: 0 auto;"> -->
 </p>
 
 <h2 align="center">Hello there! 👋 My name is Drayer Sivertsen 😊 </h2>
