@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="Drayer Sivertsen" />
 </p>
@@ -32,4 +31,3 @@ Currently focused on:
 ### Featured Work
 
 Pinned repositories below.
-```
